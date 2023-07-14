@@ -21,18 +21,18 @@
   
     
 
-    "Image_cpaLink" : "https://iili.io/HL2yr2s.png",
+    "Image_cpaLink" : "https://iili.io/HLnxcqN.png",
     "LinkCpa": "",
     
 
-    "ImageUrl_banner": "https://iili.io/HL2yr2s.png",
+    "ImageUrl_banner": "https://iili.io/HLnxcqN.png",
     "LinkCpa_banner": "",
-    "ImageUrl_banner1": "https://iili.io/HL2yr2s.png",
+    "ImageUrl_banner1": "https://iili.io/HLnxcqN.png",
     "LinkCpa_banner1": "",
-    "ImageUrl_banner2": "https://iili.io/HL2yr2s.png",
+    "ImageUrl_banner2": "https://iili.io/HLnxcqN.png",
     "LinkCpa_banner2": "",
 
-    "Image_exit": "https://iili.io/HL2yr2s.png",
+    "Image_exit": https://iili.io/HLnxcqN.png",
     "link_exit": "",
 
     "privacy" : "",
@@ -65,7 +65,7 @@
     "Text_buttonplus" : "+ 18",
 
 
-    "CpaAds" : "false",
+    "CpaAds" : "True",
 
     "Click_inter": "0"
 
